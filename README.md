@@ -23,3 +23,12 @@ AITAS is a Python-based automation pipeline designed to reduce recruitment scree
 1. **Clone the repo:**
    ```bash
    git clone [https://github.com/YOUR_USERNAME/AITAS-System.git](https://github.com/YOUR_USERNAME/AITAS-System.git)
+   
+To cite this content, please use:
+   ```bash
+   @misc{AITAS,
+    author       = {Moke Dara},
+    title        = {AITAS},
+    howpublished = 
+    year         = {2026}
+   }
